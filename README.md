@@ -1,6 +1,10 @@
 # Be Human
 **COMP30019 Graphics and Interaction, The University of Melbourne**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![UX/UI Design](https://img.shields.io/badge/UX/UI_Design-1E1E1E?style=for-the-badge&logo=UXUI&logoColor=white)
+
 ## Table of contents
 
 - [Team Members and Contributions](#team-members-and-Contributions)
